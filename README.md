@@ -24,3 +24,18 @@ git checkout main // 기본 브랜치가 main인 경우
 git checkout -b 브랜치이름
 ex) git checkout -b apply-feedback
 ```
+================
+
+새로운 자동차 객체 만들기
+- 자동차의 이름의 길이는 1~5자인 test 작성 -> Car는 name을 변수를 갖는다.
+- 자동차는 움직일 수 있다 -> car는 location를 변수를 갖는다.
+
+자동차 리스트에서 각각의 자동차로 분리
+
+시도 횟수를 받고, 
+
+move or stop 상태를 결정후 location 표시 
+
+location의 크기를 비교해서 가장 큰 값의 car 출력
+
+
